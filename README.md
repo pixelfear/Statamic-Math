@@ -1,11 +1,12 @@
 Math for Statamic
 =============
 
-> Perform basic arithmetic functions in your Statamic templates.
+> Perform basic arithmetic functions in your Statamic templates.  
 > Taken from [Bison](https://builtwithbison.com)
 
 ```
 {{ math num1="5" num2="2" operator="*" }}
+
 ie. 5*2, or 5 times 2.
 Outputs: 10
 ```
